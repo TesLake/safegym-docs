@@ -28,5 +28,4 @@ permite una mejor organización.
 
 ## Agregando Clase o Area
 
-### Programaciones4
-simon que si compa
+
